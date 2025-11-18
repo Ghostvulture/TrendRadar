@@ -14,26 +14,18 @@ HarmonyOS
 
 大疆
 DJI
+RoboMaster
+RoboCon
 
 宇树
 王兴兴
 
+达妙
 智元
 灵犀
+舞肌
 稚晖君
 彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
 
 三体
 流浪地球
@@ -41,9 +33,6 @@ DJI
 郭帆
 
 申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -69,6 +58,7 @@ deepmind
 chatgpt
 openai
 sora
+NanoBanana
 
 claude
 Anthropic
@@ -85,9 +75,12 @@ ai
 自动驾驶
 
 机器人
+具身智能
+Arxiv
 
-国产
 中国
+广东
+广州南沙
 
 美国
 日本
